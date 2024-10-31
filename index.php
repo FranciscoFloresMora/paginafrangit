@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Inicio - Fútbol</title>
-    <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <h1>Bienvenidos al sitio de Fútbol</h1>
+<body style="font-family: Arial, sans-serif; background-color: #f0f0f0; color: #333;">
+    <h1 style="color: green;">Bienvenidos al sitio de Fútbol</h1>
     <nav>
-        <a href="equipos.php">Equipos</a>
-        <a href="jugadores.php">Jugadores</a>
+        <a href="equipos.html" style="margin-right: 10px; color: blue;">Equipos</a>
+        <a href="jugadores.html" style="color: blue;">Jugadores</a>
+        <link rel="stylesheet" href="style.css">
     </nav>
     <p>Descubre los mejores equipos y jugadores del mundo del fútbol.</p>
 </body>
